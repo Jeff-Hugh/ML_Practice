@@ -4,6 +4,7 @@ version = "0.1"
 dependencies = [
     "jupyter",
     "matplotlib",
+    "openpyxl>=3.1.5",
     "scikit-learn",
     "seaborn",
 ]

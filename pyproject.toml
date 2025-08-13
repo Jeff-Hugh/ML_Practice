@@ -1,0 +1,14 @@
+[project]
+name = "ML-practice"
+version = "0.1"
+dependencies = [
+    "jupyter",
+    "matplotlib",
+    "scikit-learn",
+    "seaborn",
+]
+
+[[tool.uv.index]]
+name = "tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+default = true
